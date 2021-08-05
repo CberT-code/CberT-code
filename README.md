@@ -38,8 +38,7 @@
 -----------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Transcendence&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Transcendence)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Webserv&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Webserv)
 
 -----------
  
-&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=CberT-code/&theme=nord&margin-w=20&no-bg=true&no-frame=true)
+&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=CberT-Code/&theme=nord&margin-w=20&no-bg=true&no-frame=true)
