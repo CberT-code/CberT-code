@@ -36,4 +36,5 @@
 
 -----------
  
-&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=CberT-Code)
+![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=CberT-Code&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CberT-Code&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
