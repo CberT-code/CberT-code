@@ -22,10 +22,9 @@
 
 -----------
 
-![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=cbertola&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
-<a href="mailto:cyrille.bertola@gmail.com?subject=%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
+
+![GitHub followers](https://img.shields.io/github/followers/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/CberT-Code/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub repo size](https://badges.pufler.dev/repos/CberT-Code?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/CberT-Code/CberT-Code?color=red&style=plastic)
@@ -38,3 +37,6 @@
  
 ![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=CberT-Code&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
 ![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CberT-Code&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+
+![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=cbertola&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
+<a href="mailto:cyrille.bertola@gmail.com?subject=%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
