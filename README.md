@@ -26,7 +26,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/CberT-Code/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub repo size](https://badges.pufler.dev/repos/CberT-Code/CberT-Code?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
+![GitHub repo size](https://badges.pufler.dev/repos/CberT-Code?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/CberT-Code/CberT-Code?color=red&style=plastic)
 
 -----------
