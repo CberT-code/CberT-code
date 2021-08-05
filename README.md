@@ -36,4 +36,4 @@
 
 -----------
  
-&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=CberT-Code/)
+&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=CberT-Code)
