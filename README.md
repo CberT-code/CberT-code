@@ -4,7 +4,7 @@
 
 ---
 
-🌱 I am a student developer studying in 42Seoul. 
+🌱 I am a student developer studying in 42Paris. 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cbertola?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbert-Code&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
