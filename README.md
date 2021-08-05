@@ -47,10 +47,8 @@
 
 -----------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=minishell&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Transcendence)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=ft_service&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Webserv)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=ft_printf&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/ft_container)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=cub_3d&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/cub_3d) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Transcendence&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Transcendence)&emsp;&emsp; &ensp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Webserv&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Webserv)
 
 -----------
  
