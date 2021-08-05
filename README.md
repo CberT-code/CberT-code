@@ -18,10 +18,11 @@
 **👷 Skill list**
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" />
 ---
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=F66E96&size=31&width=660&lines=Hello+I'm+Francois...;I'm+a+student+at+school+42+Paris...;Nice+to+meet+you+!">
+ <img src="https://readme-typing-svg.herokuapp.com?color=F66E96&size=31&width=660&lines=Hello+I'm+Cyrille...;I'm+a+student+at+school+42+Paris...;Nice+to+meet+you+!">
 </p>
 
 -----------
