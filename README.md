@@ -30,7 +30,7 @@
 
 -----------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Transcendence&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Transcendence)&emsp;&emsp; &ensp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Portfolio&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Portfolio)&emsp;&emsp; &ensp; 
 
 -----------
  
