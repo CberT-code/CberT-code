@@ -9,7 +9,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cbertola?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbert-Code&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
 
-🙈 I am interested in `C`, `C++`, `Docker`, `Javascript`, `VueJS` and `NuxtJS`!
+🙈 I am interested in `C`, `C++`, `Docker`, `Javascript`, `React` and `NextJS`!
 
 🚀 My goal is to become a FullStack developer!
 
@@ -17,8 +17,8 @@
 
 **👷 Skill list**
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
- <img src="https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-%231572B6.svg?style=for-the-badge&logo=VueJS&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Next-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
 
 -----------
 
