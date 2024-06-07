@@ -9,9 +9,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cbertola?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbert-Code&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
 
-🙈 I am interested in `C`, `C++`, `Docker`, `Javascript`, `React` and `NextJS`!
-
-🚀 My goal is to become a FullStack developer!
+⭐️ Fullstack developer, working with `React Native`, `React`, `ThreeJS`, `NextJS`, `Typescript`, `MongoDB` and `AWS`!
 
 ---
 
