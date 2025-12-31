@@ -1,39 +1,171 @@
-### Hi there, I'm Cyrille BERTOLA! 👋
+<!-- ========================= -->
+<!--          HEADER           -->
+<!-- ========================= -->
 
-**⚡️Badges :** ![42](https://badgen.net/badge/Born2Code/cbertola/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Cyrille%20Bertola%20&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+    alt="Header"
+  />
+</p>
 
----
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=4B79A1&center=true&width=700&height=60&lines=Fullstack+Developer+%26+Product+CTO;Regional+Manager+in+Cleaning+Services;Designer+of+Custom+ERP+%26+Mobile+Apps;Building+scalable+systems+for+real+operations" 
+    alt="Typing SVG"
+  />
+</p>
 
-🌱 I am a student developer studying in 42Paris. 
+<br/>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/cbertola?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbert-Code&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
 
-⭐️ Fullstack developer, working with `React Native`, `React`, `ThreeJS`, `NextJS`, `Typescript`, `MongoDB` and `AWS`!
+<h2>📇 About Me</h2>
 
----
+<h3>🎯 Profile</h3>
 
-**👷 Skill list**
+<p>
+  I’m a product-driven <b>full-stack developer</b>, originally from France and based in <b>Texas</b> for several years.
+  I currently work in the cleaning services industry, where I serve as a <b>Regional Manager</b> while also taking ownership of the company’s <b>technology strategy (CTO)</b>.
+</p>
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Next-%231572B6.svg?style=for-the-badge&logo=Javascript&logoColor=white" /> <img src="https://img.shields.io/badge/NodeJS-%231572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
+<ul>
+  <li><b>🛠 Full-stack developer:</b> backend → frontend (React / React Native, Next.js, TypeScript, Node.js, Docker…), with a strong focus on efficiency and measurable results.</li>
+  <li><b>📈 Strategist & project lead:</b> I drive product vision, coordinate projects, and support teams to build the right tool at the right time.</li>
+  <li><b>💡 Always looking for solutions:</b> I enjoy designing and building pragmatic tools that solve real problems and create impact.</li>
+  <li><b>🌍 Languages:</b> French · English</li>
+  <li><b>🧭 Values:</b> clarity · high standards · efficiency · constructive feedback</li>
+</ul>
 
------------
+<br/>
 
+<!-- ========================= -->
+<!--        EXPERIENCE         -->
+<!-- ========================= -->
 
+<h2>🚀 Latest Experience — Digital Transformation & Scalability</h2>
 
-![GitHub followers](https://img.shields.io/github/followers/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub watchers](https://img.shields.io/github/watchers/CberT-Code/CberT-Code?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub repo size](https://badges.pufler.dev/repos/CberT-Code?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/CberT-Code/CberT-Code?color=red&style=plastic)
+<p>
+  My role as a Regional Manager led me to identify recurring operational challenges:  
+  lack of tracking, loss of information, slow resolution times, complex supply management,  
+  and difficulty standardizing processes across sites.
+</p>
 
------------
+<p>
+  To solve these issues, I designed and built a <b>complete ERP system (web + mobile)</b> in order to:
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CberT-Code&repo=Portfolio&theme=calm&border_radius=30&hide_border=true)](https://github.com/CberT-Code/Portfolio)&emsp;&emsp; &ensp; 
+<ul>
+  <li>centralize operations</li>
+  <li>automate critical workflows</li>
+  <li>improve team responsiveness</li>
+  <li>help the company scale smoothly (vision: <b>local → national</b>)</li>
+</ul>
 
------------
- 
-![JaeSeoKim's github stats](https://github-readme-stats.vercel.app/api?username=CberT-Code&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
-![JaeSeoKim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CberT-Code&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+<h3>✅ Modules Built</h3>
 
-![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=cbertola&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
-<a href="mailto:cyrille.bertola@gmail.com?subject=%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<ul>
+  <li>🧾 Invoicing & administrative tracking</li>
+  <li>🎫 Incident / ticket management (photos, history, SLA)</li>
+  <li>🛒 Ordering system & delivery tracking</li>
+  <li>✅ Quality audits (inspection + real-time ticket creation)</li>
+  <li>👥 Team, buildings, contacts, roles & permissions management</li>
+</ul>
+
+<h3>🎯 Goal</h3>
+
+<p>
+  Build a strong digital infrastructure that allows the business to scale  
+  <b>without increasing operational costs</b>.
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        SKILLS             -->
+<!-- ========================= -->
+
+<h2>🧰 Skills & Tools</h2>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,mongodb,threejs,nodejs,aws,tailwind,c,cpp,redis,docker,github,git,githubactions,nginx,linux,ubuntu,blender&perline=7" 
+    alt="Skill icons"
+  />
+</p>
+
+<b>📌 Technical Details</b>
+<br/>
+
+<ul>
+  <li><b>Front-end:</b> React, React Native, Next.js, Three.js, Tailwind CSS</li>
+  <li><b>Back-end:</b> Node.js (Express/Fastify), NestJS, Python (Flask/FastAPI), C/C++</li>
+  <li><b>Databases:</b> MongoDB, PostgreSQL, MySQL, DynamoDB, Redis</li>
+  <li><b>Cloud:</b> AWS (EC2, Lambda, S3, DynamoDB)</li>
+  <li><b>DevOps:</b> GitHub Actions, CI/CD, Docker, Nginx, Linux/Ubuntu, Terraform</li>
+  <li><b>Design / 3D:</b> Three.js, Blender</li>
+  <li><b>Architecture:</b> REST APIs, RBAC, multi-tenant, microservices (if applicable), clean architecture</li>
+  <li><b>Best Practices:</b> Agile/Scrum, clear documentation, unit & end-to-end testing</li>
+</ul>
+
+<br/>
+
+<!-- ========================= -->
+<!--       PROJECTS            -->
+<!-- ========================= -->
+
+<h2>🚀 Projects & Work</h2>
+
+<ul>
+  <li><b>📌 Portfolio</b> — Interactive showcase of my work (Next.js, Three.js, 3D animations).</li>
+  <li><b>📌 ERP & internal mobility apps</b> — Custom ERP + mobile apps (tickets, audits, ordering, invoicing).</li>
+  <li><b>📌 Side projects & tools</b> — Prototypes and libraries built to simplify workflows for teams and developers.</li>
+</ul>
+
+<br/>
+
+<!-- ========================= -->
+<!--          STATS            -->
+<!-- ========================= -->
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=CberT-Code&theme=transparent&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub streak"
+  />
+</p>
+
+<br/>
+
+<!-- ========================= -->
+<!--        CONTACT            -->
+<!-- ========================= -->
+
+<h2>🤝 Get in Touch</h2>
+
+<p align="center">
+  <a href="mailto:cyrille.bertola@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/e-mail-cyrille.bertola%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cyrille-bertola" title="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-Cyrille%20Bertola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+  </a>
+  <a href="https://github.com/CberT-Code" title="GitHub">
+    <img src="https://img.shields.io/badge/github-CberT--Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CberT-Code&style=flat-square&color=4B79A1" alt="Profile views"/>
+</p>
+
+<br/>
+
+<p align="center">
+  Thanks for checking out my profile 🙌 <br/>
+  Feel free to reach out if you'd like to collaborate, discuss ideas, or build something great together.
+</p>
