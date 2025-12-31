@@ -112,19 +112,106 @@
 
 <br/>
 
-<!-- ========================= -->
-<!--       PROJECTS            -->
-<!-- ========================= -->
+## 🚀 Projects & Work
 
-<h2>🚀 Projects & Work</h2>
+I build product-driven systems across mobile, web, and cloud — from fintech-grade transaction apps to operational ERP platforms designed to scale real businesses.  
+Below is a selection of project types I’ve worked on *(names intentionally omitted).*  
 
-<ul>
-  <li><b>📌 Portfolio</b> — Interactive showcase of my work (Next.js, Three.js, 3D animations).</li>
-  <li><b>📌 ERP & internal mobility apps</b> — Custom ERP + mobile apps (tickets, audits, ordering, invoicing).</li>
-  <li><b>📌 Side projects & tools</b> — Prototypes and libraries built to simplify workflows for teams and developers.</li>
-</ul>
+---
 
-<br/>
+### 🧹 Operational ERP (CTO / Regional Manager)
+Designed and built a complete **ERP platform (web + mobile)** to streamline operations and support scalable growth.
+
+✅ Key features:
+- Invoicing & administrative tracking  
+- Incident / ticket management (SLA, history, photos)  
+- Ordering workflows & delivery tracking  
+- Quality audits (real-time ticket creation)  
+- Multi-site teams, roles & permissions (RBAC)
+
+**Stack:** React Native · Next.js · NestJS · MongoDB · AWS · Docker
+
+---
+
+### 💳 NFC-based Fintech Mobile App (CTO)
+Built a mobile application enabling secure financial transactions using an **NFC tag + smartphone**.
+
+✅ Key features:
+- NFC transaction flow & identity validation  
+- Payment processing & token handling  
+- Serverless backend architecture
+
+**Stack:** React Native · AWS Amplify · Cognito · Lambda · DynamoDB · S3 · Stripe API
+
+---
+
+### 🎓 Learning Platform (Microservices Migration)
+Migrated a legacy backend from JavaScript to **NestJS (TypeScript)** and rebuilt core services into optimized microservices.
+
+✅ Key contributions:
+- API modernization & microservice segmentation  
+- Refactoring, clean architecture & optimization  
+- Unit / integration testing  
+- Frontend upgrade to match new backend
+
+**Stack:** NestJS · TypeScript · MongoDB · Vue.js · Docker · Jest · GitLab CI/CD
+
+---
+
+### 🛡️ Connected Healthcare / Safety Platform
+Developed features for a management platform powering connected safety and teleassistance solutions.
+
+✅ Responsibilities:
+- Feature development & bug fixing  
+- Platform stability & deployment support  
+
+**Stack:** AngularJS · Docker · GitLab
+
+---
+
+### 📉 Eco-driving & Fleet Performance Tool
+Contributed to a solution helping companies reduce fuel consumption and improve driver performance.
+
+✅ Contributions:
+- Consumption tracking & reporting  
+- Performance monitoring improvements  
+
+**Stack:** LoopBack · Vue.js · Docker
+
+---
+
+### 🎥 Training / HR Platform
+Optimized SQL queries and built a full feature for creating and sharing online CVs.
+
+✅ Delivered:
+- Video intro support  
+- PDF export & anonymization  
+- Group CV creation & sharing workflows  
+
+**Stack:** Ruby on Rails · PostgreSQL · Docker
+
+---
+
+### 🕵️ Privacy-focused Identity Solution (Founder)
+Led development of a platform balancing anonymity and accountability online with secure traceability.
+
+✅ Key work:
+- Product design + backend + frontend delivery  
+- Security-first architecture  
+
+**Stack:** NestJS · React · Docker
+
+---
+
+### 🏗️ Enterprise Intranet Systems
+Built internal tools to streamline procurement workflows, reporting dashboards, and IT asset management automation.
+
+✅ Delivered:
+- Workflow automation  
+- Analytics dashboards  
+- Scripting-based IT asset tracking  
+
+**Stack:** JavaScript · SQL · PowerShell
 
 <!-- ========================= -->
 <!--          STATS            -->
@@ -149,7 +236,7 @@
 
 <p align="center">
   <a href="mailto:cyrille.bertola@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/e-mail-cyrille.bertola%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
+    <img src="https://img.shields.io/badge/Cyrille Bertola%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
   <a href="https://www.linkedin.com/in/cyrille-bertola" title="LinkedIn">
     <img src="https://img.shields.io/badge/linkedin-Cyrille%20Bertola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
